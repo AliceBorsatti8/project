@@ -1,19 +1,13 @@
   h1 {
-    font-size: 50px;
+    font-size: 60px;
     font-family: "Londrina Solid", cursive;
     text-align: center;
     background-size: cover;
     margin: auto;
+    line-height: 200px;
     height: 200px;
     background: url("https://media.timeout.com/images/103437500/image.jpg");
     }
-
-.title {
-  margin: auto;
-  text-align: center;
-  vertical-align: center;
-}
-
   ul {
     padding: 10px;
     background: rgba(0,0,0,1);
