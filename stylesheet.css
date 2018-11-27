@@ -1,0 +1,74 @@
+  h1 {
+    font-size: 50px;
+    font-family: "Londrina Solid", cursive;
+    text-align: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    background: url("https://media.timeout.com/images/103437500/image.jpg");
+    }
+
+.title {
+  margin: auto;
+  text-align: center;
+  vertical-align: center;
+}
+
+  ul {
+    padding: 10px;
+    background: rgba(0,0,0,1);
+    text-align: center;
+    margin: 0 auto;
+  }
+  li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+        margin: 0 auto;
+      }
+body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+}
+div {
+  height: 300px;
+  background-size: cover;
+  position: relative;
+  margin: 30px 0 0 0;
+  border-radius: 12px;
+}
+    a {
+      color: white;
+    }
+.animals {
+  background: url("https://www.economist.com/sites/default/files/imagecache/640-width/images/print-edition/20180224_STP005_0.jpg");
+  background-size: cover;
+  max-width: 700px;
+}
+.environment {
+  background: url("https://www.hpcismart.com/images/website/ProductProfiles/DIR_25/F_69258.jpg");
+  background-size: cover;
+  max-width: 700px;
+}
+.charityshops {
+  background: url("https://2efg7n2isxpg3ktk27mal9t1-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Barnstaple-charity-shop-interior-770x433.jpg");
+  background-size: cover;
+  max-width: 700px;
+}
+
+.health {
+  background: url("https://smallbiztrends.com/wp-content/uploads/2018/07/shutterstock_679670629-850x476.jpg");
+  background-size: cover;
+  max-width: 700px;
+}
+
+p {
+  color: rgba(255,255,255,1);
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 10px;
+  line-height: 28px;
+  text-align: center;
+  align: center;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+}
