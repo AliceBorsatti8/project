@@ -26,3 +26,29 @@ body {
 font-family: helvetica, sans-serif;
 margin: 0 auto;
 }
+input {
+    border: 0;
+    margin-left: 550px;
+    font-size: 18px;
+  }
+
+  input[type="submit"] {
+    color: white;
+    background: green;
+    margin-left: 0;
+  }
+
+  p[type="mailing"] {
+    color: white;
+    background: black;
+  }
+  .navbar {
+      overflow: hidden;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      max-height: 20px;
+      border-radius: 0px;
+      background: black;
+      margin-left: 0px;
+    }
