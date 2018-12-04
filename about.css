@@ -75,3 +75,9 @@ input {
       justify-content: center;
       margin-left: 350px;
     }
+img {
+  border-radius: 50%;
+  margin-left: 500px;
+  max-height: 300px;
+  max-width: 300px;
+}
