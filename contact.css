@@ -56,3 +56,14 @@ li {
       padding: 0px 10px 0px 10px;
       margin: 0 auto;
     }
+
+        color: white;
+        background: green;
+        margin-left: 0;
+        margin-top: 10px;
+      }
+
+      p[type="mailing"] {
+        color: white;
+        background: black;
+      }
